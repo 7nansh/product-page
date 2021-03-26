@@ -1,0 +1,17 @@
+.home {
+    background: rgb(237,122,193);
+    background: linear-gradient(90deg, rgba(237,122,193,1) 0%, rgba(247,6,122,1) 100%);
+}
+
+#header {
+    margin-bottom: 4rem;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+.homeintro {
+    color: #ffff;
+}
